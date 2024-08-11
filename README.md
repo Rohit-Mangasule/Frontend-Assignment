@@ -42,3 +42,6 @@ VITE_UNSPLASH_ACCESS_KEY=your_token
 
 **Working snapshots of this project**
 
+
+![image](https://github.com/user-attachments/assets/3a707c02-f6e8-40b9-aa35-d1355278882f)
+
