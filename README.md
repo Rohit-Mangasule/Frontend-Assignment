@@ -5,7 +5,7 @@ This is a front-end assignment designed to showcase my skills in React and TypeS
 ## Assignment Overview
 
 The application is built with:
-- **React**: For building the user interface.
+- **React with HTML & CSS**: For building the user interface.
 - **TypeScript**: For type safety and improved development experience.
 - **Vite**: As the build tool for fast and efficient development.
 
@@ -23,6 +23,18 @@ To get the project up and running on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/Rohit-Mangasule/Frontend-assignment
+   
+   ```
+**Create a .env file in root directory and add access token of unspalsh to fetch photos**
+```bash
+VITE_UNSPLASH_ACCESS_KEY=your_token
+```
+
+**Commonds to Run the Project**
+
+  ```bash
    cd CUBE
    npm install
    npm run dev
+
+   ```
